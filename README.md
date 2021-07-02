@@ -19,6 +19,6 @@ python3 main.py <path>
  ```
 Так же не стоит забывать про зависимости:
 
-*python3-opencv
-*numpy
-*matplotlib
+1. python3-opencv
+2. numpy
+3. matplotlib

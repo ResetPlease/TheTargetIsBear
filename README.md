@@ -17,7 +17,8 @@ python3 main.py <path>
  ```bash
  python main.py <path>
  ```
-Так же не стоит забывать про зависимости,
-     *python3-opencv
-     *numpy
-     *matplotlib
+Так же не стоит забывать про зависимости:
+
+*python3-opencv
+*numpy
+*matplotlib

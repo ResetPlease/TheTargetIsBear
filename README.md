@@ -12,7 +12,7 @@ Help for "main.py"
 ```bash
 python3 main.py <path>
 ```
-где <path> - путь до изображения с медведями.
+где `<path>` - путь до изображения с медведями.
 Имейте ввиду, что если у вас Windows, то запускать стоит командой 
  ```bash
  python main.py <path>

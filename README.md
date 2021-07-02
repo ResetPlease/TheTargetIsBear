@@ -18,6 +18,6 @@ python3 main.py <path>
  python main.py <path>
  ```
 Так же не стоит забывать про зависимости,
- *python3-opencv
- *numpy
- *matplotlib
+     *python3-opencv
+     *numpy
+     *matplotlib
